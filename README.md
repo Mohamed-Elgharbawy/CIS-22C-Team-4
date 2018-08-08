@@ -1,8 +1,6 @@
 # CIS-22C-Team-4
 Our CIS 22C final group project.
 
-Project summary:
-	
 Topic: Tablet convertible Laptops.
   
 	Memebers: 
