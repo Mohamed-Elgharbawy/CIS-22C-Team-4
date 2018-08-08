@@ -3,7 +3,7 @@ Our CIS 22C final group project.
 
 Project summary:
 	
-	Topic: Tablet convertible Laptops.
+Topic: Tablet convertible Laptops.
   
 	Memebers: 
 		Alex: File I/O 
