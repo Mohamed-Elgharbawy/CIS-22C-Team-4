@@ -1,4 +1,4 @@
-# CIS-22C-Team-4
+# Online-Storefront
 Our CIS 22C final group project.
 
 Topic: Tablet convertible Laptops.
