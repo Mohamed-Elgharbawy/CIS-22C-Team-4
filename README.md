@@ -11,7 +11,7 @@ Topic: Tablet convertible Laptops.
 		Vu: BST Algorithms
 		Alex: File I/O 
 
-### To Compile and run the program on Mac:
+### To compile and run the program on Mac:
 
 first install home-brew from [brew.sh](https://brew.sh) if you don't have it already.
 then install two packages:
