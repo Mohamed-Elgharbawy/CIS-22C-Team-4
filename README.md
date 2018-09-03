@@ -4,12 +4,12 @@ Our CIS 22C final group project.
 Topic: Tablet convertible Laptops.
   
 	Memebers: 
-		Alex: File I/O 
-		Andrew: Priority Queue
-		Jasper: GUI
 		Mohamed: Team Coordinator & Main
+		Jasper: GUI
+		Andrew: Priority Queue
 		Tin: Hash Tables
 		Vu: BST Algorithms
+		Alex: File I/O 
 
 ### To Compile and run the program on Mac:
 
