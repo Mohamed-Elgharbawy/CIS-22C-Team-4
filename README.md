@@ -13,8 +13,8 @@ Topic: Tablet convertible Laptops.
 
 ### To compile and run the program on Mac:
 
-first install home-brew from [brew.sh](https://brew.sh) if you don't have it already.
-then install two packages:
+First, install home-brew from [brew.sh](https://brew.sh) if you don't have it already.
+Then install two packages:
 >brew install pkg-config
 
 >brew install gtk
