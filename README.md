@@ -34,9 +34,6 @@ Then, use this command to compile the program (make sure you cd into the correct
 and then run it:
 >./program
 
-#### Coming Soon:
-For Mac users we will soon have a .app ready to download, no package installation required!
-
 ### For Windows:
 Make sure you have GTK installed. Tested with GTK3.
 Use a makefile, or copy the following into a .bat file:
