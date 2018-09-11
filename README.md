@@ -15,7 +15,7 @@ Topic: Tablet convertible Laptops.
 
 First, install home-brew from [brew.sh](https://brew.sh) if you don't have it already.
 
-Then install two packages:
+Then, install two packages:
 >brew install pkg-config
 
 >brew install gtk
@@ -26,6 +26,7 @@ pkg-config manages the includes and libraries for the project
 gtk is the graphics library the project uses
 
 Make sure to install gtk2 and NOT gtk3
+
 
 Then, use this command to compile the program (make sure you cd into the correct directory first):
 >g++ \*.cpp -o program \`pkg-config --cflags gtk+-2.0\` \`pkg-config --libs gtk+-2.0\`
