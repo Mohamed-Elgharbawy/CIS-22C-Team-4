@@ -3,7 +3,7 @@ Our CIS 22C final group project.
 
 Topic: Tablet convertible Laptops.
   
-	Memebers: 
+	Members: 
 		Mohamed: Team Coordinator & Main
 		Jasper: GUI
 		Andrew: Priority Queue
